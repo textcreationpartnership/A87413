@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull nevves from the Marquesse of Ormond and the Princes army in Ireland concerning their late fight with the Parliamen[t]s forces, and the landing of 3000 horse in Ireland, for Prince Charles, by the Duke of Lorraign; with a resolution to joyn with 7000. Scots under the Lord of Ards. 3000 Irish commanded by the E. of Clanrickard, 7000 of the Spanish faction, commanded by Gen. Oneal, and 13900 of Ormonds forces which escaped the last fight.  All which are designed against the Lord Governour Cromwell, whose numbers will amount to above 30000 horse and foot. Also the Scots declaration concerning their declared King, and all those who have broken the covenant, despised the oath of God, corrupted the truth, and subverted the fundamentall government by King and Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87413</idno><idno type="EEBO-CITATION">99865480</idno>
+  <idno type="VID">165326</idno>
+  <idno type="EEBO-PROQUEST">2240935430</idno>
+  
+            <idno type="STC">Wing J1149</idno>
+            <idno type="STC">Thomason E569_12</idno>
+            <idno type="STC">ESTC R206307</idno>
+            <idno type="PROQUEST">99865480</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865480e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165326)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E569[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull nevves from the Marquesse of Ormond and the Princes army in Ireland concerning their late fight with the Parliamen[t]s forces, and the landing of 3000 horse in Ireland, for Prince Charles, by the Duke of Lorraign; with a resolution to joyn with 7000. Scots under the Lord of Ards. 3000 Irish commanded by the E. of Clanrickard, 7000 of the Spanish faction, commanded by Gen. Oneal, and 13900 of Ormonds forces which escaped the last fight.  All which are designed against the Lord Governour Cromwell, whose numbers will amount to above 30000 horse and foot. Also the Scots declaration concerning their declared King, and all those who have broken the covenant, despised the oath of God, corrupted the truth, and subverted the fundamentall government by King and Parliament.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>August 15. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term type="geographic_name">Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165326:1"/>
+            <p>JOYFULL NEVVES From the Marquesse of ORMOND And the Princes Army in IRELAND Concerning their late fight with the Parliaments Forces, <hi>AND</hi> The landing of 3000 Horse in <hi>Ireland,</hi> for Prince <hi>Charles,</hi> by the Duke of <hi>Lorraign;</hi> with a Resolution to joyn with 7000. Scots under the Lord of <hi>Ards.</hi> 3000 Irish commanded by the E. of <hi>Clanrickard,</hi> 7000 of the Spanish Faction, com<g ref="char:EOLhyphen"/>manded by Gen. <hi>Oneal,</hi> and 13000 of <hi>Ormonds</hi> Forces which escaped the last fight.</p>
+            <p>All which are designed against the Lord Governour <hi>Cromwell,</hi> whose Numbers will amount to above 30000 Horse and Foot. <hi>ALSO,</hi> The Scots Declaration concerning their declared KING, and all those who have broken the Covenant, despised the Oath of God, corrupted the Truth, and subverted the fundamentall Government by King and Parliament.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>R. W.</hi> August 15, 1649</p>
+            <pb facs="tcp:165326:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:165326:2"/>
+            <head>JOYFULL NEVVES From the Marquesse of ORMOND <hi>AND</hi> The Princes Army in <hi>Ireland,</hi> concerning their late Fight with the Parliaments Forces, their bodying again, and the landing of three thousand horse for the Prince by the Duke of <hi>Lorraign.</hi>
+            </head>
+            <opener>
+               <salute>Right Honoured,</salute>
+            </opener>
+            <p>SInce the late blow given to the Marq. of <hi>Ormond</hi> by Lieut. Gen. <hi>Jones,</hi> we hear that they are re-bodying about Kilkenny and Munster, and that in the said En<g ref="char:EOLhyphen"/>gagement thirteen thousand of the Princes forces escaped, who are gathering together, and randezvouzing in severall
+<pb n="2" facs="tcp:165326:3"/> places; but the raising of the siege, and defeating that potent power is joyfully rescented by many. We have received another express from thence, which intimates, that the D. of <hi>Lorraign</hi> hath landed 3000 horse in <hi>Ireland,</hi> and that a conjunction is designed by them with 7000 Scots under the Lord of Ards, 3000 Irish commanded by the Earle of <hi>Clanrickard,</hi> 7000 of the Spanish Faction commanded by Gen. <hi>Oneal,</hi> 1400 horse commanded by L. <hi>Incihiquin,</hi> and the 13000 of <hi>Ormonds</hi> that escaped at the last fight; all which (it is said) intend a Randezvouz neer <hi>Kilkenny,</hi> who being bodyed, will make an Army of 30000 and upwards, and may probably much indanger our friends in <hi>Dublin,</hi> if a considerable supply be not speedily sent over to them.</p>
+            <closer>
+               <dateline>Bristol <date>12. August, 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>By an Expresse further from <hi>Ireland.</hi>
+            </head>
+            <p>On Thursday thr second we discovered a party of the e<g ref="char:EOLhyphen"/>nemies, draw to Baggotstrath, about 1500 foot, besides houses. We found a necessity for removing them, and seeing the nearnesse of the enemies camp at Rathmines (lesse then a mile from Baggotsiath) where they might be readily relieved with great force as occasion might require therefore did I advance with so much a greater strength, about twelve hundred horse and four thousand foot.</p>
+            <p>The enemies work at Baggotsiath we soon entred, yet not without strong dispute: most of the enemies foot there were slain and taken, their horse having deserted them after the first charge.</p>
+            <p>Our horse and foot pursuin their advantage, we became at last wholly engaged with their whole army, whom after two houres fight we totally routed.</p>
+            <p>We slew in the place, and in the chase, about 400 and
+<pb n="3" facs="tcp:165326:3"/> 2500 and 17 prisoners, most of them Inchequins English, and of our run awayes, we got one whole Canon, three Demi▪Canons; one long square gun, carrying a Ball of 12 pound, one Saker drake, and one Morter piece, (all these Braffe) and some Train carriages, and about 200 draught Oxen for the Train.</p>
+            <p>The strength of the enemy, was by themselves since ac<g ref="char:EOLhyphen"/>knowledged 19000; Ormond narrowly escaped. Of our men there are not 20 missing, many wounded. The greatest loss fel on the horse, wherein my Regiment hath much suf<g ref="char:EOLhyphen"/>fered, wherein I humbly desire may be considered.</p>
+            <p>This work is the Lords doing, and it is marvellous in our eyes: By whose especiall providence of it was that we should thus engage, we our selves first not far intending it: Neither did the enemy expect our so doing; nor would they have willingly engaged with us, if it might have been by them avoided, they reserving themselves for the coming up of Clanrickard with his connaght forces, about 3000. and the Lord of Ardes with seven thousand all rerdy for marching: <hi>Inchiquin</hi> also being looked for, who had the week before gone towards Munster, with two Regiments of horse, for appeasing some stirrings there, by Oweh Roe, raised in his absence. Never was any day in Ireland like this, to the confusion of the Irish, and to the raising up the spirits of the poor English, and to the restoring of the Engliish interest, which from their first footing in Ireland was never in so low a condition, as at that very instant being in so low a condition, as at that very instant there not being any one considerable place left you, but this alone, and this also (without the Lords timely and most gracious good<g ref="char:EOLhyphen"/>nesse and providence to us almost gone.</p>
+         </div>
+         <div type="terms_of_treaty">
+            <pb n="4" facs="tcp:165326:4"/>
+            <head>Heads of the Scots Declaration.</head>
+            <p>FIrst, that prevailing party of Sectaries of England, who have broken the Covenant, and despised the Oath of God, corrupted the truth, subverted the fundamentall Government, by King and Parliament, and taken away the life; look upon us with an evill eye, as upon those who stand in the way of their monstrous and new-fingled devi<g ref="char:EOLhyphen"/>ces, in Religion and Government, and though there were no cause to fear any thing for that party, but the Gangrene and infection of those many damnable and abominahle er<g ref="char:EOLhyphen"/>rors, which have taken hold on them, yet our vicinity unto and dayly to commerce with that nation, may justly make us afraid that the Lord may give up many in this land un<g ref="char:EOLhyphen"/>to a spirit of delusion, to beleeve lyes, because they have not received the love of truth.</p>
+            <p>Secondly, Nejther is the Malignant party so far broken and brought low, as that they have abandoned all hopes of carrying on their former designes against the Covenant, and work of Reformation, besides many of them in this Kingdom who are as Foxes tyde in chaines, keeping in evil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nature, and waiting opportunity to break their cords, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> again to prey upon the Lords people. That the stan<g ref="char:EOLunhyphen"/>ding Armies in Ireland, under the command of the Marq. of Ormond, the Lord Inchiqueen, the Lord of Airds, and George Munroe, who forgetting the horrible cruelty that was exercised by the Irish and English Nations in that Land, have entred into a Peace and association with them, that they may the more easily carry on the old design of the Popish, Prelatical and Malignant party, and the Lord of Airds, and George Munroe, have by treachery and op<g ref="char:EOLhyphen"/>pression, brought the Province of Ulster, and Garrisons therein, under their power and command, and have redac<g ref="char:EOLhyphen"/>ted our Country-men, and such as adhere unto the Cove<g ref="char:EOLhyphen"/>nant
+<pb n="5" facs="tcp:165326:4"/> and cause of God in that P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ovince unto many miseries and straits, and are like to banish the Ministers of the Gos<g ref="char:EOLhyphen"/>pell, and to overturn these fair beginnings of the worke of God, which were unto many a branch of hope, that the Lord meant to make Ireland a pleasant Land.</p>
+            <p>Thirdly, But which is more grievous unto us then all these, our King notwithstanding of the Lords hand, against his fathers opposition to the work of God, and bearing down all those in the three Kingdomes, by which it is come to passe, that his Majesty hath hitherto refused to grant the just and necessary desires of this Kirk and Kingdom, which were tendred unto him from the Commissioners of both for securing of Religion, the liberties of the Subject, his <hi>Mai.</hi> Government, and the peace of the Kingdom; and it is much to be feared that those wicked Councellours may so far prevail upon him in his tender years, as to engage him in a War for ouerturning (if i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be possible) of the Work of God, and bearing down all those in the three Kingdoms that adhere thereto, which if he shall do, cannot but bring great wrath from the Lord upon himself and his Throne, and must be the cause of many new and great miseries and ca<g ref="char:EOLhyphen"/>lamities to these Lands.</p>
+            <p>And albeit the Lands be involved in many difficulties and compassed about with great and imminent dangers; yet there is hope and ground of consolation concerning this thing; the Lord is in the midst of us, and we are called by his name, our ears hear the joyfull sound of the Gospell, add our eyes see our Teachers. We behold the arm of the Lord stretched out daily in working salvation for his peo<g ref="char:EOLhyphen"/>ple, and answering their desires upon their enemies, by ter<g ref="char:EOLhyphen"/>rible things in righteousnesse; although we be few in num<g ref="char:EOLhyphen"/>ber,
+<pb n="6" facs="tcp:165326:5"/> yet the Lord of Hosts is with us, and in the power of his strength we shall be able to prevaile; although our land be filled with sin, yet we have not been forsaken of the Lord our God, but he hath always had compassion upon us, and delivered us in all our distresse; although some of understanding fal, it is bot to try, and to purge, and to make white even to the end, because it is yet for a time appointed although many cleave to us by flatteries, yet there be a remnant who keep their integrity, and the Lord shall do good to those that be good; but such as turn afide to croo<g ref="char:EOLhyphen"/>ked ways, shall be led forth with the workers of iniqui<g ref="char:EOLhyphen"/>ty.</p>
+            <p>The Lords poople in England and Ireland, who adhere to the cause and covenant, may be perplexed, but shall not des<g ref="char:EOLhyphen"/>pair, they may be persecuted but shall not be forsaken; they may be cast down but shall not be destroyed; and although uniformity and the work of Reformation in these hands seem not only to be retarded, but almost pluekt up by the roots, and the foundation thereof razed; yet the seed which the Lord hath sowen there, shall again take root down<g ref="char:EOLhyphen"/>ward, and bear fruit upward, the zeal of the Lord of Hosts shall perform this.</p>
+            <closer>
+               <signed>A. KER.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
